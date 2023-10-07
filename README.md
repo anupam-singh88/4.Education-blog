@@ -1,5 +1,8 @@
 # Sample Responsive Site
 
+![image](https://github.com/anupam-singh88/education-blog-responsive/assets/89381022/be6c9799-cb02-488e-a526-24dbf05fedfc)
+
+
 ## Description
 This project is a responsive website using HTML and CSS.
 
